@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Graduado+Análise+Desenvolvimento+Sistemas;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Análise+Desenvolvimento+Sistemas;" alt="Headline" />
 </div>
 <h1 align="center">Olá 👋, Eu sou Bruno</h1>
 <h3 align="center">Gerente de Relacionamento, residente em Aracaju-SE / Brasil.</h3>
@@ -14,7 +14,6 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 [![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular)]()
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
 <h3 align="left">Entre em contato comigo:</h3>
 ![Linkedin]([https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/bruno-bastos-melo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxTNFug14TqCsRDwF%2BW16Dg%3D%3D)
