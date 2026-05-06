@@ -20,7 +20,7 @@ Sou um profissional capaz de analisar, projetar, especificar, codificar, testar,
 ---
 
 ### 🚀 Linguagens e Ferramentas
-<div style="display: flex; gap: 10px;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -36,4 +36,8 @@ Sou um profissional capaz de analisar, projetar, especificar, codificar, testar,
 ---
 
 ### 📫 Entre em contato comigo
-[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/bruno-bastos-melo/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/bruno-bastos-melo/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</div>
