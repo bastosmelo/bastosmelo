@@ -14,7 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bastosmelo&label=Visualizações%20no%20perfil&color=0e75b6&style=flat)
 
 - 🔭 Atualmente, eu trabalho no **Banco do Brasil**
-- 🌱 Meus estudos atuais focam em **Front End (HTML, CSS, JavaScript e TypeScript)**
+- 🌱 Meus estudos atuais focam em **Front End (HTML, CSS, JavaScript, TypeScript, Flutter e Dart)**
 - 📫 Contato: **bastosmelot@hotmail.com**
 
 ---
