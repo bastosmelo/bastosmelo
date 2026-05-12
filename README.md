@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bastosmelo/bastosmelo/main/bruno-avatar.png" alt="bruno-avatar" height="200">
+  <img src="https://raw.githubusercontent.com/bastosmelo/bastosmelo/main/avatar/bruno-avatar.png" alt="Bruno Avatar" height="200">
 </div>
 
 <div align="center">
