@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://chatgpt.com/s/m_6a02898a89f081918fcf3bc89a039e57" alt="Bruno Avatar" height="200">
+  <img src="https://raw.githubusercontent.com/bastosmelo/bastosmelo/main/bruno-avatar.png" alt="Bruno Avatar" height="200">
 </div>
 
 <div align="center">
